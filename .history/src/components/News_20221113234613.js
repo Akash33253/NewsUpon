@@ -1,6 +1,6 @@
-import React from 'react'
+import React,{useEffect,useState} from 'react'
 import NewsItem from "./NewsItem";
-// import Spinner from "./Spinner"
+import Spinner from "./Spinner"
 // import InfiniteScroll from "react-infinite-scroll-component";
 export default function News(props) {
   // const [article,setArticle]=useState();
@@ -90,6 +90,7 @@ export default function News(props) {
         {/* {setloading(false)} */}
           {/* </InfiniteScroll> */}
       </div>
+      {props.setProgress(100)}
     </>
   )
 }

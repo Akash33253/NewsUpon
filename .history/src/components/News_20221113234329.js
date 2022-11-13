@@ -1,6 +1,6 @@
-import React from 'react'
+import React,{useEffect,useState} from 'react'
 import NewsItem from "./NewsItem";
-// import Spinner from "./Spinner"
+import Spinner from "./Spinner"
 // import InfiniteScroll from "react-infinite-scroll-component";
 export default function News(props) {
   // const [article,setArticle]=useState();
@@ -60,8 +60,9 @@ export default function News(props) {
   return (
     <>
       {/* <Banner/> */}
+      
      <div className="container my-3">
-        <h2 className='text-center' id="heading">{props.heading} Headlines</h2>
+        <h2 className='text-center' id="heading">Headlines</h2>
       {/* {setloading(true)}
       {loading&&<Spinner/>} */}
         {/* <InfiniteScroll
@@ -69,7 +70,7 @@ export default function News(props) {
           next={fetchMoreData}
           hasMore={article.length!==totalResults}
           loader={<Spinner/>}
-        > */}
+          > */}
         <div className="container">
         <div className="row">
           {props.category.articles.map((element) => {

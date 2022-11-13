@@ -1,6 +1,6 @@
-import React from 'react'
+import React,{useEffect,useState} from 'react'
 import NewsItem from "./NewsItem";
-// import Spinner from "./Spinner"
+import Spinner from "./Spinner"
 // import InfiniteScroll from "react-infinite-scroll-component";
 export default function News(props) {
   // const [article,setArticle]=useState();
@@ -72,6 +72,7 @@ export default function News(props) {
         > */}
         <div className="container">
         <div className="row">
+          {props.setProgress(40)}
           {props.category.articles.map((element) => {
             return <div className="col-md-4 my-2" key={element.url}>
                     <NewsItem
@@ -85,11 +86,13 @@ export default function News(props) {
                     />
                  </div>
           })}
+          {props.setProgress(80)}
         </div>
         </div>
         {/* {setloading(false)} */}
           {/* </InfiniteScroll> */}
       </div>
+      {props.setProgress(100)}
     </>
   )
 }

@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Does 5G Cell Phone Cause Radiation which Increases Cancer Risk? - TelecomTalk",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vdGVsZWNvbXRhbGsuaW5mby9kb2VzLTVnLWNlbGwtcGhvbmUtcmFkaWF0aW9uLWluY3JlYXNlLWNhbmNlci82MjI0MjIv0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-11-13T15:49:57Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Livemint"
+    },
+    "author": "Livemint",
+    "title": "Essential copper binding protein also facilitates spreading of cancer cell, finds study | Mint - Mint",
+    "description": "A recent study by Chalmers research found that cancer cells require proteins that bind copper ions to develop and spread throughout the human body",
+    "url": "https://www.livemint.com/science/health/essential-copper-binding-protein-also-facilitates-spreading-of-cancer-cell-finds-study-11668343101235.html",
+    "urlToImage": "https://images.livemint.com/img/2022/11/13/600x338/tumour-copper_1668346139477_1668346139754_1668346139754.jpg",
+    "publishedAt": "2022-11-13T15:30:24Z",
+    "content": "A Chalmers research team found that proteins that bind copper ions are required for cancer cell growth and spread throughout the body. It has also discovered possible new therapeutic targets on the i… [+2732 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DNA India"
+    },
+    "author": "DNA Web Team",
+    "title": "Suffering from vision loss? Four best tips to maintain eye health - DNA India",
+    "description": "To avoid loss of vision with increasing age, you should start adopting a few healthy habits to protect your eyes.",
+    "url": "https://www.dnaindia.com/health/report-suffering-from-vision-loss-four-best-tips-to-maintain-eye-health-3001975",
+    "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/11/13/2553696-eyecare.jpg",
+    "publishedAt": "2022-11-13T15:24:06Z",
+    "content": "Reported By:| Edited By: DNA Web Team |Source: DNA Web Desk |Updated: Nov 13, 2022, 08:54 PM ISTWhile continuously working on laptops and desktops, most people have started having eye problems. The p… [+2525 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Soon, all districts will have metabolic centres: Health Minister - The Hindu",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9uZXdzL25hdGlvbmFsL2tlcmFsYS9tZXRhYm9saWMtY2VudHJlcy1pbi1kaXN0cmljdHMvYXJ0aWNsZTY2MTMyNzc3LmVjZdIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-11-13T14:32:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Medical Dialogues"
+    },
+    "author": "Dr. Kamal Kant Kohli",
+    "title": "Incidence of CV events among diabetes patients substantially correlated with abdominal obesity... - Medical Dialogues",
+    "description": "CHINA: The incidence of cardiovascular events among individuals with type 2 diabetes was substantially correlated with all abdominal obesity indicators, according to a study published in...",
+    "url": "https://medicaldialogues.in/cardiology-ctvs/news/incidence-of-cv-events-among-diabetes-patients-substantially-correlated-with-abdominal-obesity-indicators-102052",
+    "urlToImage": "https://medicaldialogues.in/h-upload/2022/05/27/177278-obesity.jpg",
+    "publishedAt": "2022-11-13T14:30:46Z",
+    "content": "CHINA: The incidence of cardiovascular events among individuals with type 2 diabetes was substantially correlated with all abdominal obesity indicators, according to a study published in Cardiovascul… [+3120 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Medical Dialogues"
+    },
+    "author": "Dr. Kamal Kant Kohli",
+    "title": "Retinal age gap: A novel biomarker for detecting risk of development of CVD - Medical Dialogues",
+    "description": "AUSTRALIA: According to research reported in Stroke, retinal age gap was substantially linked with arterial stiffness index and incident CVD events, confirming the usefulness of this novel...",
+    "url": "https://medicaldialogues.in/ophthalmology/news/retinal-age-gap-a-novel-biomarker-for-detecting-risk-of-development-of-cvd-102055",
+    "urlToImage": "https://medicaldialogues.in/h-upload/2020/10/11/135734-retina.jpg",
+    "publishedAt": "2022-11-13T14:30:34Z",
+    "content": "AUSTRALIA: According to research reported in Stroke, retinal age gap was substantially linked with arterial stiffness index and incident CVD events, confirming the usefulness of this novel biomarker … [+2923 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Medical Dialogues"
+    },
+    "author": "Jacinthlyn Sylvia",
+    "title": "Air Pollution with particulate matter about 2.5 micron increases lung damage: JAMA - Medical Dialogues",
+    "description": "A new study published in the Journal of American Medical Association shows that sulfate, ammonium, and nitrate elements of Particulate matter 2.5 (PM2.5) were linked to the most damage and were...",
+    "url": "https://medicaldialogues.in/pulmonology/news/air-pollution-with-particulate-matter-about-25-micron-increases-lung-damage-jama-102179",
+    "urlToImage": "https://medicaldialogues.in/h-upload/2022/07/22/181505-lungs.jpg",
+    "publishedAt": "2022-11-13T14:30:13Z",
+    "content": "A new study published in the Journal of American Medical Association shows that sulfate, ammonium, and nitrate elements of Particulate matter 2.5 (PM2.5) were linked to the most damage and were assoc… [+2695 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ANI News"
+    },
+    "author": null,
+    "title": "Light exercise linked to mild intracerebral haemorrhage symptoms - ANI News",
+    "description": "According to a University of Gothenburg study, four hours of light physical exercise every week is associated with milder symptoms of intracerebral haemorrhage as well as higher survival rates.",
+    "url": "https://www.aninews.in/news/lifestyle/fitness/light-exercise-linked-to-mild-intracerebral-haemorrhage-symptoms20221113191108",
+    "urlToImage": "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20221113134035.jpg",
+    "publishedAt": "2022-11-13T13:41:00Z",
+    "content": "Washington [US], November 13 (ANI): A University of Gothenburg study found that four hours of light exercise per week were linked to both higher survival rates and milder intracerebral haemorrhage sy… [+3597 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Asianatimes.com"
+    },
+    "author": "Sudhanshu Pandey",
+    "title": "Is Your Heart Throbbing Normally? - Asiana Times",
+    "description": "Today's youth is extremely upset about their heart. No, not because they are in love or they had a fresh breakup.Aditya is 35 years old and is very upset with heart palpitation. They would feel terrible heart palpitation and that is, sometimes their heart bea…",
+    "url": "https://asianatimes.com/is-your-heart-throbbing-normally/",
+    "urlToImage": "https://i0.wp.com/asianatimes.com/wp-content/uploads/2022/09/Asiana-Times-Live-News-Analysis.png",
+    "publishedAt": "2022-11-13T13:11:04Z",
+    "content": "Today’s youth is extremely upset about their heart. No, not because they are in love or they had a fresh breakup.Aditya is 35 years old and is very upset with heart palpitation. They would feel terri… [+3852 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ANI News"
+    },
+    "author": null,
+    "title": "Researchers find cells that cause relapse of colon cancer - ANI News",
+    "description": "With over 2 million new cases each year, colon cancer is the third most prevalent disease in the world. The majority of patients receive their diagnosis while the tumour is still in the colon or rectum.",
+    "url": "https://www.aninews.in/news/health/researchers-find-cells-that-cause-relapse-of-colon-cancer20221113182304",
+    "urlToImage": "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20221113125254.jpg",
+    "publishedAt": "2022-11-13T12:53:00Z",
+    "content": "Barcelona [Spain], November 13 (ANI): Colon cancer is the third most common disease in the world, with more than 2 million new cases diagnosed each year. Most individuals find out they have a tumour … [+4918 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Healthshots.com"
+    },
+    "author": "Radhika Bhirani",
+    "title": "Measles outbreak: Know how to protect children from this contagious illness - Health shots",
+    "description": "The measles outbreak in Mumbai has spread panic among people. The spread of the disease is a reminder of the importance of the MR vaccine to prevent this illness.",
+    "url": "https://www.healthshots.com/health-news/measles-outbreak-know-how-to-protect-your-child-from-this-disease/",
+    "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2022/11/13154036/measles.jpg",
+    "publishedAt": "2022-11-13T12:23:17Z",
+    "content": "A measles outbreak in Mumbai has put children’s parents on tenterhooks about the viral disease which mostly affects kids. Measles, which can lead to full-body rash and flu, is more likely to spread a… [+2759 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DNA India"
+    },
+    "author": "DNA Web Team",
+    "title": "World Diabetes Day 2022: These 5 myths will leave you in shock, know the important facts - DNA India",
+    "description": "According to the World Health Organization, diabetes alone is responsible for 2 per cent of the total deaths in India.",
+    "url": "https://www.dnaindia.com/health/report-world-diabetes-day-2022-these-5-myths-will-leave-you-in-shock-know-the-important-facts-3001935",
+    "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/11/13/2553639-world-diabetes-day-2022.jpg",
+    "publishedAt": "2022-11-13T12:21:00Z",
+    "content": "Reported By:| Edited By: DNA Web Team |Source: DNA Web Desk |Updated: Nov 13, 2022, 05:54 PM ISTToday lakhs of people are suffering from diabetes in the country and the number of its patients is incr… [+3599 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "News-Medical.Net"
+    },
+    "author": null,
+    "title": "World Pneumonia Day 2022: Pneumonia Affects Everyone - News-Medical.Net",
+    "description": "In commemoration of World Pneumonia Day 2022, we speak to Dr. Andy Whittamore, GP and Clinical Lead at Asthma + Lung UK, about the effect pneumonia can have on everyone.",
+    "url": "https://www.news-medical.net/news/20221113/World-Pneumonia-Day-2022-Pneumonia-Affects-Everyone.aspx",
+    "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_729950_1667475350142970.png",
+    "publishedAt": "2022-11-13T11:26:00Z",
+    "content": "In commemoration of World Pneumonia Day 2022, we spoke to Dr. Andy Whittamore, GP and Clinical Lead at Asthma + Lung UK, about the effect pneumonia can have on everyone. \r\nPlease can you introduce yo… [+5289 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "India.com"
+    },
+    "author": "https://www.india.com/author/lifestylestaff/",
+    "title": "Diabetes Insipidus (DI): Types, Causes, Symptoms And Treatment- All You Need to Know - India.com",
+    "description": "Diabetes insipidus is usually caused by problems with a hormone called vasopressin that helps your kidneys balance the amount of fluid in your body.",
+    "url": "https://www.india.com/health/diabetes-insipidus-types-causes-symptoms-and-treatment-all-you-need-to-know-5740607/",
+    "urlToImage": "https://static.india.com/wp-content/uploads/2022/11/Collage-Maker-13-Nov-2022-04.29-PM.jpg",
+    "publishedAt": "2022-11-13T11:00:55Z",
+    "content": "Diabetes insipidus is usually caused by problems with a hormone called vasopressin that helps your kidneys balance the amount of fluid in your body. \r\nDiabetes Insipidus (DI): Types, Causes, Symptoms… [+4798 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "India.com"
+    },
+    "author": "Zee Media Bureau",
+    "title": "Binge Eating Disorder: Significant difference between girls and boys neurobiology - Zee News",
+    "description": "In a revolutionary study, the first documented examination of the brains of boys and girls with binge eating disorders, researchers from the Keck School of Medicine at USC found significant structural differences between the sexes.  The research was recently …",
+    "url": "https://zeenews.india.com/health/binge-eating-disorder-significant-difference-between-girls-and-boys-neurobiology-2534785",
+    "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2022/11/13/1116481-binge-eating.jpg",
+    "publishedAt": "2022-11-13T10:51:08Z",
+    "content": "In a revolutionary study, the first documented examination of the brains of boys and girls with binge eating disorders, researchers from the Keck School of Medicine at USC found significant structura… [+3816 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Newsroomodisha.com"
+    },
+    "author": "Newsroom Odisha Network",
+    "title": "What makes bio re-modeling different from fillers? - Newsroom Odisha",
+    "description": "We'd like to make clear that both treatments use hyaluronic acid (HA), a hydrating stimulant, before we go into the differences, even though one may have a higher concentration than the other. So let's get started right away.What is bio-remodeling?In",
+    "url": "https://newsroomodisha.com/what-makes-bio-re-modeling-different-from-fillers/",
+    "urlToImage": "https://newsroomodisha.com/wp-content/uploads/2022/11/14c87cd40afe548ab5c2a09dd999f94a-1L7jH1.jpeg",
+    "publishedAt": "2022-11-13T10:43:27Z",
+    "content": "We’d like to make clear that both treatments use hyaluronic acid (HA), a hydrating stimulant, before we go into the differences, even though one may have a higher concentration than the other. So let… [+4231 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Newsmeter.in"
+    },
+    "author": "Sumavarsha kandula",
+    "title": "Is there a link between Covid-19 and lung cancer? Experts explain - NewsMeter",
+    "description": "When asked if there was an increase in lung cancer cases during the pandemic, Dr. Pratibh Prasad...",
+    "url": "https://newsmeter.in/science-health/is-there-a-link-between-covid-19-and-lung-cancer-experts-explain-703521",
+    "urlToImage": "https://newsmeter.in/h-upload/2022/11/13/332676-whatsapp-image-2022-11-13-at-10656-pm.jpg",
+    "publishedAt": "2022-11-13T10:30:58Z",
+    "content": "Hyderabad: November is lung cancer awareness month. We at NewsMeter tried to explore the link between the Covid-19 pandemic and lung cancer.\r\nThe Covid pandemic wreaked havoc on India's already overb… [+2990 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daijiworld.com"
+    },
+    "author": null,
+    "title": "On Children's Day-eve, top specialist says congenital heart disease kills 78K infants in India year - Daijiworld.com",
+    "description": "By Quaid Najmi\r\nMumbai, Nov 13 (IANS): A staggering 78,000 infants born with congenital heart disease die in India annually due to inadequate healthcare facilities and lack of awareness, according to top cardiac surgeon Dr. Ramakanta Panda, the Group CEO of A…",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1019374",
+    "urlToImage": "http://daijiworld.com/images/daijiSquareLogo.png",
+    "publishedAt": "2022-11-13T09:55:13Z",
+    "content": "By Quaid Najmi\r\nMumbai, Nov 13 (IANS): A staggering 78,000 infants born with congenital heart disease die in India annually due to inadequate healthcare facilities and lack of awareness, according to… [+3317 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Indian Express"
+    },
+    "author": "PTI",
+    "title": "Popular dietary supplements may increase cancer risk: Study - The Indian Express",
+    "description": "High levels of nicotinamide riboside (NR), a form of vitamin B3, could not only increase the risk of someone developing triple-negative breast cancer but also cause the cancer to spread to the brain, the study said",
+    "url": "https://indianexpress.com/article/lifestyle/health/dietary-supplements-increase-cancer-risk-study-8264989/",
+    "urlToImage": "https://images.indianexpress.com/2022/11/vit.jpg",
+    "publishedAt": "2022-11-13T09:45:44Z",
+    "content": "Intake of popular commercial dietary supplements like nicotinamide riboside (NR), a form of vitamin B3, could actually increase the risk of serious diseases, including cancer, a new study has found.T… [+3228 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ThePrint"
+    },
+    "author": "ANI",
+    "title": "Researchers discover how cancer cells ‘decide’ to grow, spread - ThePrint",
+    "description": "London [UK], November 13 (ANI): According to a recent, membranes of breast cancer cells have varying voltages, providing information regarding their growth and dissemination. The research, led by Imperial College London and The Institute of Cancer Research, L…",
+    "url": "https://theprint.in/science/researchers-discover-how-cancer-cells-decide-to-grow-spread/1214165/",
+    "urlToImage": null,
+    "publishedAt": "2022-11-13T09:13:52Z",
+    "content": "London [UK], November 13 (ANI): According to a recent, membranes of breast cancer cells have varying voltages, providing information regarding their growth and dissemination.\r\nThe research, led by Im… [+5123 chars]"
+    }
+    ]
+    }

@@ -38,6 +38,7 @@ export default function App() {
         height={2}
          />
          <Routes>
+          {set}
           <Route  exact path="/" element={<News setProgress={setProgress}  key="1" category={general} heading='General'/>}></Route>
           <Route  exact path="/business" element={<News setProgress={setProgress} key="2"category={business} heading='Business'/>}></Route>
           <Route  exact path="/entertainment" element={<News setProgress={setProgress}  key="3" category={entertainment} heading='Entertainment'/>}></Route>

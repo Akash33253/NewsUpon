@@ -1,6 +1,6 @@
-import React from 'react'
+import React,{useEffect,useState} from 'react'
 import NewsItem from "./NewsItem";
-// import Spinner from "./Spinner"
+import Spinner from "./Spinner"
 // import InfiniteScroll from "react-infinite-scroll-component";
 export default function News(props) {
   // const [article,setArticle]=useState();
@@ -8,9 +8,9 @@ export default function News(props) {
   // const [loading,setloading]=useState(true);
   // const [page,setpage]=useState(1);
   // const [totalResults,settotalResults]=useState(0);
-  // const capitalizeFirstLetter = (string)=> {
-  //   return string.charAt(0).toUpperCase() + string.slice(1);
-  // }
+  const capitalizeFirstLetter = (string)=> {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+  }
   // const updateNews = ()=>{
   //   props.setProgress(10)
   //   // const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
@@ -61,18 +61,17 @@ export default function News(props) {
     <>
       {/* <Banner/> */}
      <div className="container my-3">
-        <h2 className='text-center' id="heading">{props.heading} Headlines</h2>
-      {/* {setloading(true)}
-      {loading&&<Spinner/>} */}
+        <h2 className='text-center' id="heading">Headlines</h2>
+      {!loading&&<Spinner/>}
         {/* <InfiniteScroll
           dataLength={article.length}
           next={fetchMoreData}
           hasMore={article.length!==totalResults}
           loader={<Spinner/>}
-        > */}
+          > */}
         <div className="container">
         <div className="row">
-          {props.category.articles.map((element) => {
+          {loading&&article.map((element) => {
             return <div className="col-md-4 my-2" key={element.url}>
                     <NewsItem
                     newsURL={element.url}
@@ -87,7 +86,6 @@ export default function News(props) {
           })}
         </div>
         </div>
-        {/* {setloading(false)} */}
           {/* </InfiniteScroll> */}
       </div>
     </>

@@ -40,7 +40,7 @@ export default function Navbar() {
                             </li>
                         </ul>
                     </div>
-                    <span id="time">{cTime}<br/>{cDate}</span>
+                    <span id="time">{cTime}<br/> {cDate}</span>
                 </div>
             </nav>
         </div>

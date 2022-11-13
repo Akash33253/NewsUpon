@@ -1,6 +1,6 @@
-import React from 'react'
+import React, from 'react'
 import NewsItem from "./NewsItem";
-// import Spinner from "./Spinner"
+import Spinner from "./Spinner"
 // import InfiniteScroll from "react-infinite-scroll-component";
 export default function News(props) {
   // const [article,setArticle]=useState();

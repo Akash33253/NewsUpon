@@ -21,7 +21,7 @@ export default function App() {
   // const pageSize= 9
   // const apiKey = process.env.REACT_APP_NEWS_API
   const [progress,setpro]=useState(0);
-  // const [loading,setloading]=useState(true);
+  const [loading,setloading]=useState(true);
   const setProgress=(p)=>{
      setpro(p);
   }

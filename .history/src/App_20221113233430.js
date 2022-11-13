@@ -21,7 +21,6 @@ export default function App() {
   // const pageSize= 9
   // const apiKey = process.env.REACT_APP_NEWS_API
   const [progress,setpro]=useState(0);
-  // const [loading,setloading]=useState(true);
   const setProgress=(p)=>{
      setpro(p);
   }
@@ -43,8 +42,8 @@ export default function App() {
           <Route  exact path="/entertainment" element={<News setProgress={setProgress}  key="3" category={entertainment} heading='Entertainment'/>}></Route>
           <Route  exact path="/health" element={<News setProgress={setProgress}  key="4" category={health} heading='Health'/>}></Route>
           <Route  exact path="/science" element={<News setProgress={setProgress}  key="5" category={science} heading='Science'/>}></Route>
-          <Route  exact path="/sports" element={<News setProgress={setProgress}  key="6" category={sports} heading='Sports'/>}></Route>
-          <Route  exact path="/technology" element={<News setProgress={setProgress}  key="7" category={technology} heading='Technology'/>}></Route>
+          <Route  exact path="/sports" element={<News setProgress={setProgress}  key="6" category={sports} heading='Business'/>}></Route>
+          <Route  exact path="/technology" element={<News setProgress={setProgress}  key="7" category={technology}/>}></Route>
           {/* <Route  exact path="/" element={<News setProgress={setProgress} apiKey={apiKey} key="1"pageSize={pageSize} country={country} category="general"/>}></Route>
           <Route  exact path="/business" element={<News setProgress={setProgress} apiKey={apiKey} key="2"pageSize={pageSize} country={country} category="business"/>}></Route>
           <Route  exact path="/entertainment" element={<News setProgress={setProgress} apiKey={apiKey} key="3"pageSize={pageSize} country={country} category="entertainment"/>}></Route>

@@ -1,45 +1,29 @@
-import React from 'react'
+import React,{useEffect,useState} from 'react'
 import NewsItem from "./NewsItem";
-// import Spinner from "./Spinner"
+import Spinner from "./Spinner"
 // import InfiniteScroll from "react-infinite-scroll-component";
+import general from "../newsFile/general.json"
+import business from "../newsFile/business.json"
+import technology from "../newsFile/technology.json"
+import sports from "../newsFile/sports.json"
+import health from "../newsFile/health.json"
+import entertainment from "../newsFile/entertainment.json"
 export default function News(props) {
-  // const [article,setArticle]=useState();
-  // console.log(article)
-  // const [loading,setloading]=useState(true);
+  const [article,setArticle]=useState(general.articles);
+  console.log(article)
+  const [loading,setloading]=useState(true);
   // const [page,setpage]=useState(1);
   // const [totalResults,settotalResults]=useState(0);
-  // const capitalizeFirstLetter = (string)=> {
-  //   return string.charAt(0).toUpperCase() + string.slice(1);
-  // }
-  // const updateNews = ()=>{
+  const capitalizeFirstLetter = (string)=> {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+  }
+  // const updateNews = async()=>{
   //   props.setProgress(10)
   //   // const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
   //   setloading(true);
   //   //  let data = await fetch(url);
   //    props.setProgress(30)
-  //    let parsedData;
-  //    if(props.category==='general')
-  //    {
-  //      parsedData = general//await data.; 
-  //    }
-  //    else if(props.category==='business'){
-  //       parsedData = business;
-  //    }
-  //    else if(props.category==='technology'){
-  //       parsedData = technology;
-  //    }
-  //    else if(props.category==='health'){
-  //       parsedData = health;
-  //    }
-  //    else if(props.category==='sports'){
-  //       parsedData = sports;
-  //    }
-  //    else if(props.category==='science'){
-  //       parsedData = science;
-  //    }
-  //    else{
-  //       parsedData= entertainment;
-  //    }
+  //    let parsedData = general.json()//await data.json(); 
   //    props.setProgress(60)
   //    setArticle(parsedData.articles);
   //   //  settotalResults(parsedData.totalResults);
@@ -50,29 +34,28 @@ export default function News(props) {
   //   setpage(page+1)
   //   const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pageSize=${props.pageSize}`;
   //   let data = await fetch(url);
-  //   let parsedData = await data.; 
+  //   let parsedData = await data.json(); 
   //   setArticle(article.concat(parsedData.articles))
   //   setloading(false)
   // };
   // useEffect(()=>{
   //   updateNews();
-  // })
+  // },[])
   return (
     <>
       {/* <Banner/> */}
      <div className="container my-3">
-        <h2 className='text-center' id="heading">{props.heading} Headlines</h2>
-      {/* {setloading(true)}
-      {loading&&<Spinner/>} */}
+        <h2 className='text-center' id="heading">{capitalizeFirstLetter(props.category)} Headlines</h2>
+      {loading&&<Spinner/>}
         {/* <InfiniteScroll
           dataLength={article.length}
           next={fetchMoreData}
           hasMore={article.length!==totalResults}
           loader={<Spinner/>}
-        > */}
+          > */}
         <div className="container">
         <div className="row">
-          {props.category.articles.map((element) => {
+          {loading&&article.map((element) => {
             return <div className="col-md-4 my-2" key={element.url}>
                     <NewsItem
                     newsURL={element.url}
@@ -87,7 +70,6 @@ export default function News(props) {
           })}
         </div>
         </div>
-        {/* {setloading(false)} */}
           {/* </InfiniteScroll> */}
       </div>
     </>
