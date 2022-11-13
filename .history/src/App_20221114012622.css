@@ -140,28 +140,12 @@ body{
       font-size: 0.8rem;
   }
   #banText h4{
-    font-size: 2rem;
+    font-size: 1rem;
   }
 } 
   @media only screen and (max-width: 400px) {
 
   body{
     font-family: 'News Cycle', sans-serif;
-  }
-  #heading{
-    margin-top: 20px;
-  }
-  #banText{
-      padding: 0px 30px;
-  }
-  #banText h1{
-    font-size: 2rem;
-    margin-top: 45px;
-  }
-  #banText p{
-      font-size: 0.7rem;
-  }
-  #banText h4{
-    font-size: 1.3rem;
   }
 }

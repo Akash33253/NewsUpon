@@ -152,16 +152,16 @@ body{
     margin-top: 20px;
   }
   #banText{
-      padding: 0px 30px;
+      padding: 0px px;
   }
   #banText h1{
-    font-size: 2rem;
-    margin-top: 45px;
+    font-size: 3rem;
+    margin-top: 30px;
   }
   #banText p{
-      font-size: 0.7rem;
+      font-size: 0.8rem;
   }
   #banText h4{
-    font-size: 1.3rem;
+    font-size: 2rem;
   }
 }

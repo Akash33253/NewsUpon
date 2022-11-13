@@ -101,13 +101,6 @@ body{
     }
     #banText h1{
       font-size: 3rem;
-      margin-top: 20px;
-    }
-    #banText h4{
-      font-size: 2rem;
-    }
-    #banText p{
-      font-size: 1rem;
     }
   }
   @media only screen and (max-width: 750px){
@@ -116,7 +109,7 @@ body{
     }
     #banText h1{
       font-size: 3rem;
-      margin-top: 30px;
+      margin-top: 180px;
     }
     #banText h4{
       font-size: 2rem;
@@ -133,35 +126,19 @@ body{
       padding: 0px 30px;
   }
   #banText h1{
-    font-size: 3rem;
-    margin-top: 30px;
+    font-size: 2rem;
+    margin-top: 230px;
   }
   #banText p{
-      font-size: 0.8rem;
+      font-size: 0.6rem;
   }
   #banText h4{
-    font-size: 2rem;
+    font-size: 1rem;
   }
 } 
   @media only screen and (max-width: 400px) {
 
   body{
     font-family: 'News Cycle', sans-serif;
-  }
-  #heading{
-    margin-top: 20px;
-  }
-  #banText{
-      padding: 0px 30px;
-  }
-  #banText h1{
-    font-size: 2rem;
-    margin-top: 45px;
-  }
-  #banText p{
-      font-size: 0.7rem;
-  }
-  #banText h4{
-    font-size: 1.3rem;
   }
 }
