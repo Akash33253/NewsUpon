@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter&family=News+Cycle&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter&family=Satisfy&display=swap');
 .App {
   text-align: center;
 }
@@ -143,7 +143,8 @@ body{
   }
 } 
   @media only screen and (max-width: 400px) {
-  body{
-    font-family: 'News Cycle', sans-serif;
+  
+  #heading{
+    margin-top: 93px;
   }
 }

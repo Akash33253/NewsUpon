@@ -14,9 +14,6 @@ export default function Navbar() {
         <div id="navigation">
             <nav className="navbar fixed-top navbar-expand-lg bg-dark navbar-dark">
                 <div className="container-fluid">
-                <button className="navbar-toggler" id="hamburger"type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span className="navbar-toggler-icon"></span>
-                    </button>
                     <Link className="navbar-brand" to="/" id="navBrand">NewsUpon</Link>
                     
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">

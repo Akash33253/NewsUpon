@@ -146,4 +146,7 @@ body{
   body{
     font-family: 'News Cycle', sans-serif;
   }
+  #heading{
+    margin-top: 93px;
+  }
 }
