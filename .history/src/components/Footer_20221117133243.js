@@ -12,7 +12,7 @@ export default function Footer() {
                     NewsUpon
                 </div>
                 <div id='footLogoContainer'>
-                    <a href="https://github.com/Akash33253/NewsUpon" rel="noreferrer" target="_blank">
+                    <a href="https://www.facebook.com/profile.php?id=100005285706307" rel="noreferrer" target="_blank">
                         <img src={gitLogo} className="footLogo" alt="" />
                     </a>
                     <a href="https://www.instagram.com/akash_33253" rel="noreferrer" target="_blank">
