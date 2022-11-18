@@ -1,0 +1,516 @@
+{
+  "status": "ok",
+  "totalResults": 51,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Daily Mail" },
+      "author": "Fiona Jackson",
+      "title": "T.rex was 70% larger than previously thought and could weigh up to 33,000lbs, study claims - Daily Mail",
+      "description": "Researchers from the Canadian Museum of Nature built a model that predicted the maximum size of a T. Rex, but warn it is speculative until a specimen of this size is discovered.",
+      "url": "https://www.dailymail.co.uk/sciencetech/article-11443489/T-rex-70-larger-previously-thought-weigh-33-000lbs-study-claims.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2022/11/18/11/59993075-0-image-a-42_1668771544263.jpg",
+      "publishedAt": "2022-11-18T12:06:21Z",
+      "content": "The infamous Tyrannosaurus Rex - or T. rex - could have weighed up to 33,000lb (15,000 kg) when it roamed the Earth.\r\nThis is just over the weight of two elephants, or a London double-decker bus, and… [+4787 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Curious Kids: How many galaxies are there in the universe? - The Hindu",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9zY2ktdGVjaC9zY2llbmNlL2N1cmlvdXMta2lkcy1ob3ctbWFueS1nYWxheGllcy1hcmUtdGhlcmUtaW4tdGhlLXVuaXZlcnNlL2FydGljbGU2NjE1MzA2Ni5lY2XSAXtodHRwczovL3d3dy50aGVoaW5kdS5jb20vc2NpLXRlY2gvc2NpZW5jZS9jdXJpb3VzLWtpZHMtaG93LW1hbnktZ2FsYXhpZXMtYXJlLXRoZXJlLWluLXRoZS11bml2ZXJzZS9hcnRpY2xlNjYxNTMwNjYuZWNlL2FtcC8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-18T10:50:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "First business transaction on the Moon? Japanese company to sell Lunar dust to NASA | WION Originals - WION",
+      "description": "In what can be said to be the world's first business transaction on the Moon, a private Japanese firm has signed a $5,000 contract with NASA. Watch this vide...",
+      "url": "https://www.youtube.com/watch?v=f39GOdx-S5A",
+      "urlToImage": "https://i.ytimg.com/vi/f39GOdx-S5A/maxresdefault.jpg",
+      "publishedAt": "2022-11-18T10:29:50Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Tech Explorist" },
+      "author": "Amit Malewar",
+      "title": "Mars churns up surprisingly Earth-like cloud patterns - Tech Explorist",
+      "description": "A new study dives deeper into two dust storms.",
+      "url": "https://www.techexplorist.com/mars-churns-surprisingly-earth-like-cloud-patterns/54923/",
+      "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2022/11/Cloud_patterns_on_Mars_and_Earth.jpg",
+      "publishedAt": "2022-11-18T10:28:00Z",
+      "content": "The Springtime season in Mars’ northern hemisphere is characterized by rich atmospheric dynamical activity. This activity occurs at the polar cap’s edge, often revealed by the presence of local dust … [+4700 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deccan Chronicle" },
+      "author": "Deccan Chronicle",
+      "title": "Webb Space Telescope spots early galaxies hidden from Hubble - Deccan Chronicle",
+      "description": "Webb's latest discoveries were detailed in the Astrophysical Journal Letters by an international team led by Rohan Naidu",
+      "url": "https://www.deccanchronicle.com/science/science/181122/webb-space-telescope-spots-early-galaxies-hidden-from-hubble.html",
+      "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4gtg39v8ecmq72o031r9cdo303-20170618085626.Medi.jpeg",
+      "publishedAt": "2022-11-18T09:02:00Z",
+      "content": "Cape Canaveral (US): NASA's Webb Space Telescope is finding bright, early  galaxies that until now were hidden from view, including one that may have formed a mere 350 million (35 crore) years after … [+2861 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Bharat Sharma",
+      "title": "Earth Regulates Its Own Temperatures Through A Stabilising Mechanism, Study Finds - msnNOW",
+      "description": "Would you believe us if we told you that just like its creatures, Earth too regulates its own body in ways we cannot completely comprehend? A new study claims that Earth is able to regulate its own temperature over millennia.Published by MIT researchers in Sc…",
+      "url": "https://www.indiatimes.com/technology/science-and-future/earth-regulates-temperatures-study-585136.html",
+      "urlToImage": "https://im.indiatimes.in/content/2022/Nov/FBImage5-copy_6377378e5b2cc.jpg",
+      "publishedAt": "2022-11-18T07:40:33Z",
+      "content": "Would you believe us if we told you that just like its creatures, Earth too regulates its own body in ways we cannot completely comprehend? A new study claims that Earth is able to regulate its own t… [+2842 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Nasa Artemis launch: To the Moon and Beyond - The Straits Times",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCMetaWbzYc8",
+      "urlToImage": null,
+      "publishedAt": "2022-11-18T07:00:03Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": { "id": null, "name": "Tech Explorist" },
+      "author": "Amit Malewar",
+      "title": "A new map of the universe displays the entire known cosmos - Tech Explorist",
+      "description": "The map allows you to scroll through the universe.",
+      "url": "https://www.techexplorist.com/new-map-universe-displays-entire-known-cosmos/54916/",
+      "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2022/11/map-of-universe.jpg",
+      "publishedAt": "2022-11-18T06:40:30Z",
+      "content": "Johns Hopkins University astronomers have created a new map of the universe. This is the first time the span of the known cosmos has been shown with pinpoint accuracy and sweeping beauty.\r\nTo create … [+1310 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ThePrint" },
+      "author": "ANI",
+      "title": "Elusive dusty inner region of distant galaxy: Research - ThePrint",
+      "description": "Washington [US], November 18 (ANI): An international team of scientists has achieved the milestone of directly observing the long-sought, innermost dusty ring around a supermassive black hole, at a right angle to its emerging jet. Such a structure was thought…",
+      "url": "https://theprint.in/science/elusive-dusty-inner-region-of-distant-galaxy-research/1223050/",
+      "urlToImage": null,
+      "publishedAt": "2022-11-18T06:13:22Z",
+      "content": "Washington [US], November 18 (ANI): An international team of scientists has achieved the milestone of directly observing the long-sought, innermost dusty ring around a supermassive black hole, at a r… [+4997 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Tech Explorist" },
+      "author": "Amit Malewar",
+      "title": "A new method to ‘see’ the fine structure and chemical composition of a human cell - Tech Explorist",
+      "description": "A different kind of cell signal.",
+      "url": "https://www.techexplorist.com/new-method-see-fine-structure-chemical-composition-human-cell/54912/",
+      "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2022/11/cells.jpg",
+      "publishedAt": "2022-11-18T05:53:18Z",
+      "content": "While nanoscale structural imaging of cells is now possible, a direct recording of the chemical composition of these domains is lacking. A novel technique was created by scientists at the Beckman Ins… [+3227 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Devdiscourse" },
+      "author": "Devdiscourse News Desk",
+      "title": "NASA's Perseverance Mars Rover exploring sediment-rich location in ancient river delta - Devdiscourse",
+      "description": "Read more about NASA's Perseverance Mars Rover exploring sediment-rich location in ancient river delta  on Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/science-environment/2256206-nasas-perseverance-mars-rover-exploring-sediment-rich-location-in-ancient-river-delta",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_11_2022_10_17_54_1909819.jfif?width=920&format=jpeg",
+      "publishedAt": "2022-11-18T04:48:57Z",
+      "content": "NASA's Perseverance Mars rover has started exploring Yori Pass, a sediment-rich location near the base of Jezero Crater's ancient river delta. This region offers tantalizing opportunities for the mis… [+1871 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Car-Sized Turtle Fossils Discovered In Spain - NDTV",
+      "description": "Plying the subtropical seas that washed the coasts of the archipelago that made up Europe 83 million years ago was one of the largest turtles on record, a reptile the size of a small car - a Mini Cooper to be precise - that braved dangerous waters.",
+      "url": "https://www.ndtv.com/world-news/car-sized-turtle-fossils-leviathanochelys-aenigmatica-discovered-in-spain-3531308",
+      "urlToImage": "https://c.ndtvimg.com/2022-11/p2de7aa8_spain-turtle_625x300_18_November_22.jpg",
+      "publishedAt": "2022-11-18T01:54:04Z",
+      "content": "It is Europe's biggest-known turtle, scientists said.\r\nMadrid: Plying the subtropical seas that washed the coasts of the archipelago that made up Europe 83 million years ago was one of the largest tu… [+4058 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Leonid meteor shower peaks tonight - ABC 7 Chicago",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da-rUueHSLC4",
+      "urlToImage": null,
+      "publishedAt": "2022-11-17T23:42:03Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "See the Latest Stunning Images Taken by the James Webb Space Telescope - FOX Weather",
+      "description": "The James Webb Space Telescope has released more mesmerizing images of the deepest corners of our universe. #JamesWebbSpaceTelescope #JWST #NASA Click here f...",
+      "url": "https://www.youtube.com/watch?v=lxF3S9zcysc",
+      "urlToImage": "https://i.ytimg.com/vi/lxF3S9zcysc/maxresdefault.jpg",
+      "publishedAt": "2022-11-17T22:12:30Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "#ThankYouLightSail - The Planetary Society",
+      "description": "After 3.5 years and 18,000 orbits of the Earth, The Planetary Society’s LightSail 2 solar sail spacecraft has reentered the Earth’s atmosphere in a blaze of ...",
+      "url": "https://www.youtube.com/watch?v=NfSRAmUll_Y",
+      "urlToImage": "https://i.ytimg.com/vi/NfSRAmUll_Y/maxresdefault.jpg",
+      "publishedAt": "2022-11-17T21:55:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "NASASpaceflight.com" },
+      "author": "Joseph Navin, Pete Harding, & Chris Gebhardt",
+      "title": "Three spacewalks completed across two days on two space stations - NASASpaceFlight.com - NASASpaceflight.com",
+      "description": "In low Earth orbit (LEO) this week, NASA, Roscosmos, and the China National Space Administration…",
+      "url": "https://www.nasaspaceflight.com/2022/11/three-spacewalks/",
+      "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-15-at-9.31.18-PM-628x350.png",
+      "publishedAt": "2022-11-17T21:14:59Z",
+      "content": "In low Earth orbit (LEO) this week, NASA, Roscosmos, and the China National Space Administration (CNSA) performed spacewalks outside humankind’s two permanently-crewed space stations.\r\nNASA conducted… [+7343 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Bollyinside.com" },
+      "author": "Lisa Jennings",
+      "title": "NASA scientists are sending experiments into orbit that will enable longer future journeys, including space tomatoes and yogurt packets. - BollyInside",
+      "description": "Space Tomatoes, a portable diagnostic kit that grows beneficial microbes, and yogurt bags are on board SpaceX’s 26th commercial delivery mission,",
+      "url": "https://www.bollyinside.com/news/nasa-scientists-are-sending-experiments-into-orbit-that-will-enable-longer-future-journeys-including-space-tomatoes-and-yogurt-packets",
+      "urlToImage": "https://cdn-photos.itemsb.com/wp-content/uploads/2022/11/Web-capture_17-11-2022_22740_www.bing_.com_.jpeg",
+      "publishedAt": "2022-11-17T20:05:13Z",
+      "content": "Space Tomatoes, a portable diagnostic kit that grows beneficial microbes, and yogurt bags are on board SpaceXs 26th commercial delivery mission, scheduled to launch to the International Space Station… [+2707 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Bollyinside.com" },
+      "author": "Lisa Jennings",
+      "title": "Space agency reports that communication with Japan’s lunar lander is unstable - BollyInside",
+      "description": "The Japan Aerospace Exploration Agency (JAXA) said Thursday it was unable to establish stable communication with a small lunar lander that launched",
+      "url": "https://www.bollyinside.com/news/space-agency-reports-that-communication-with-japans-lunar-lander-is-unstable",
+      "urlToImage": "https://cdn-photos.itemsb.com/wp-content/uploads/2022/11/Web-capture_17-11-2022_223037_www.laprensalatina.com_.jpeg",
+      "publishedAt": "2022-11-17T19:05:12Z",
+      "content": "The Japan Aerospace Exploration Agency (JAXA) said Thursday it was unable to establish stable communication with a small lunar lander that launched Wednesday as part of the Artemis I mission.\r\nMeasur… [+2060 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Is AI just a fantasy | Mazviita Chirimuuta - The Institute of Art and Ideas",
+      "description": "Mazviita Chirimuuta debunks the myths surrounding AI. Is it all just a fantasy?Watch the full talk at https://iai.tv/video/the-ai-hoax-mazviita-chirimuuta?ut...",
+      "url": "https://www.youtube.com/watch?v=Hj2UShFSIB8",
+      "urlToImage": "https://i.ytimg.com/vi/Hj2UShFSIB8/maxresdefault.jpg",
+      "publishedAt": "2022-11-17T18:45:14Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "See the Spacecraft: Earth-Observing Satellite SWOT Nears Launch (Live Q+A) - NASA Jet Propulsion Laboratory",
+      "description": "A new Earth science mission led by NASA and the French space agency Centre National d’Études Spatiales is preparing for launch! In less than a month, the SWO...",
+      "url": "https://www.youtube.com/watch?v=Vfd2XYYUrs4",
+      "urlToImage": "https://i.ytimg.com/vi/Vfd2XYYUrs4/maxresdefault.jpg",
+      "publishedAt": "2022-11-17T18:19:18Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Medical Xpress" },
+      "author": "Nikolay Posunko",
+      "title": "Scientists fashion tiny 'lyre' to ensure medical imaging systems are in tune - Medical Xpress",
+      "description": "Skoltech researchers have created a solution for quick functional checks of optoacoustic microscopes and tomographs. These are diagnostic devices that use harmless laser irradiation and ultrasound waves instead of X-rays for detecting breast cancer and, poten…",
+      "url": "https://medicalxpress.com/news/2022-11-scientists-fashion-tiny-lyre-medical.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2022/scientists-fashion-tin-1.jpg",
+      "publishedAt": "2022-11-17T17:43:03Z",
+      "content": "Skoltech researchers have created a solution for quick functional checks of optoacoustic microscopes and tomographs. These are diagnostic devices that use harmless laser irradiation and ultrasound wa… [+5501 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ANI News" },
+      "author": null,
+      "title": "Research suggests Mars was once covered by 300 meter deep oceans - ANI News",
+      "description": "Mars is called the red planet. But once, it was actually blue and covered in water, bringing us closer to finding out if Mars had ever harboured life.",
+      "url": "https://www.aninews.in/news/science/research-suggests-mars-was-once-covered-by-300-meter-deep-oceans20221117230506",
+      "urlToImage": "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20221117151708.jpeg",
+      "publishedAt": "2022-11-17T17:35:00Z",
+      "content": "Copenhagen [Denmark], November 17 (ANI): The \"red planet\" refers to Mars. We're getting closer to learning whether life has ever existed on Mars thanks to the discovery that it was previously blue an… [+2685 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Phys.Org" },
+      "author": "Karyn Hede",
+      "title": "Tiniest ever ancient seawater pockets revealed - Phys.org",
+      "description": "Trapped for millennia, the tiniest liquid remnants of an ancient inland sea have now been revealed. The surprising discovery of seawater sealed in what is now North America for 390 million years opens up a new avenue for understanding how oceans change and ad…",
+      "url": "https://phys.org/news/2022-11-tiniest-ancient-seawater-pockets-revealed.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/tiniest-ever-ancient-s.jpg",
+      "publishedAt": "2022-11-17T16:23:30Z",
+      "content": "Trapped for millennia, the tiniest liquid remnants of an ancient inland sea have now been revealed. The surprising discovery of seawater sealed in what is now North America for 390 million years open… [+5834 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Phys.Org" },
+      "author": "Science X staff",
+      "title": "Study of ray-finned fishes that survived mass extinction event overturns previous assumptions on species diversification - Phys.org",
+      "description": "Ray-finned fish, now the most diverse group of backboned animals, were not as hard hit by a mass extinction event 360 million years ago as scientists previously thought.",
+      "url": "https://phys.org/news/2022-11-ray-finned-fishes-survived-mass-extinction.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2022/ray-finned-fish-surviv.jpg",
+      "publishedAt": "2022-11-17T16:02:02Z",
+      "content": "Ray-finned fish, now the most diverse group of backboned animals, were not as hard hit by a mass extinction event 360 million years ago as scientists previously thought.\r\nThe extinction event that en… [+3914 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "NASA ARSET: AQ Products from GOES, Part 2/3 - NASA Video",
+      "description": "Accessing and Analyzing Air Quality Data from Geostationary SatellitesPart 2: AQ Products from GOES-Introduction to NOAA’s GEO aerosol products - algorithms ...",
+      "url": "https://www.youtube.com/watch?v=_jtKJbDcjoU",
+      "urlToImage": "https://i.ytimg.com/vi/_jtKJbDcjoU/hqdefault.jpg",
+      "publishedAt": "2022-11-17T14:56:46Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Techcircle.in" },
+      "author": null,
+      "title": "James Webb observation plans to be altered to avoid 'micro' impacts - TechCircle",
+      "description": "The James Webb Space Telescope (JWST), one of the farthest seeing space telescopes launched by any nation so far, is set to undergo a realignment exercise in order to avoid unprecedented impact of tiny space rocks, or ‘micrometeoroids’, in future. The space t…",
+      "url": "https://www.techcircle.in/2022/11/17/james-webb-observation-plans-to-be-altered-to-avoid-micro-impacts/",
+      "urlToImage": "https://assets.techcircle.in/uploads/article-image/2022/11/images/31235-image-1-1.jpg",
+      "publishedAt": "2022-11-17T14:34:23Z",
+      "content": "The James Webb Space Telescope (JWST), one of the farthest seeing space telescopes launched by any nation so far, is set to undergo a realignment exercise in order to avoid unprecedented impact of ti… [+2035 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Phys.Org" },
+      "author": "Science X staff",
+      "title": "New insights into mitochondrial nucleoid dynamics - Phys.org",
+      "description": "Mitochondria are important cellular structures that are vital for their role in generating energy. Mitochondria are dynamic, meaning they constantly fuse together and split apart. They contain a small amount of genetic information known as mitochondrial DNA (…",
+      "url": "https://phys.org/news/2022-11-insights-mitochondrial-nucleoid-dynamics.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-insights-into-mito-1.jpg",
+      "publishedAt": "2022-11-17T14:28:56Z",
+      "content": "Mitochondria are important cellular structures that are vital for their role in generating energy. Mitochondria are dynamic, meaning they constantly fuse together and split apart. They contain a smal… [+3673 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Big Think" },
+      "author": "Don Lincoln",
+      "title": "What's the real reason you can't go faster than the speed of light? - Big Think",
+      "description": "There's the textbook answer, then there's the real answer.",
+      "url": "https://bigthink.com/hard-science/real-reason-faster-than-light-speed-spacetime/",
+      "urlToImage": "https://bigthink.com/wp-content/uploads/2022/11/BT_thumb_template-56.jpg?resize=1200,630",
+      "publishedAt": "2022-11-17T14:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Zoom" },
+      "author": "Dipavali Hazra",
+      "title": "80% of life died in unknown mass extinction – they struggled to 'breathe' - Times Now",
+      "description": "A study has found that earth may have witnessed another mass extinction because of plummeting levels of oxygen some 550 million years ago. That extinction episode led to the creation of modern day animals. It also holds a lesson for our future as climate chan…",
+      "url": "https://www.timesnownews.com/explainer/80-of-life-died-in-unknown-mass-extinction-they-struggled-to-breathe-article-95585121",
+      "urlToImage": "https://static.tnn.in/thumb/msid-95585121,imgsize-100,width-1280,height-720,resizemode-75/95585121.jpg",
+      "publishedAt": "2022-11-17T13:46:09Z",
+      "content": "Amazon confirms more job layoffs in 2023; know how to deal with anxiety, and depression after being fired"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Engineering a sustainable future for point-of-care diagnostics and single-use microfluidic devices - Royal Society Of Chemistry",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJ377-TPD6nQ",
+      "urlToImage": null,
+      "publishedAt": "2022-11-17T12:44:36Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Live Science" },
+      "author": "Joanna Thompson",
+      "title": "Scientists solved a 500-million-year-old mystery about strange Cambrian structures found in China - Livescience.com",
+      "description": "Extremely detailed Cambrian fossils show that enigmatic skeleton tubes belonged to ancient ancestors of modern jellyfish.",
+      "url": "https://www.livescience.com/cambrian-fossil-tube-jellyfish",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/peWYSggECjnMtbrYrVBMgc-1200-80.jpg",
+      "publishedAt": "2022-11-17T12:00:00Z",
+      "content": "Over 500 million years ago, sea-dwelling invertebrates pioneered a new evolutionary experiment: skeletons. But while those durable, tubelike structures stood the test of time as fossils, the animals'… [+4672 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Weather Channel" },
+      "author": "The Weather Channel",
+      "title": "Scientists Create a Fake Black Hole in Their Lab | Weather.com - The Weather Channel",
+      "description": "This experiment emitted a Hawking radiation equivalent — something that has been theorised since 1974, but has never been observed before.",
+      "url": "https://weather.com/en-IN/india/space/news/2022-11-17-scientists-create-fake-black-hole-in-their-lab",
+      "urlToImage": "https://s.w-x.co/in-black%20hole.jpg",
+      "publishedAt": "2022-11-17T10:21:17Z",
+      "content": "Stories of ships and planes disappearing over the Bermuda Triangle gave many of us the heebie-jeebies as a child. Then we all grew up and conclusively decided that black holes were more concerning, p… [+2668 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Jagran Josh" },
+      "author": "Saumya",
+      "title": "What Is The Difference Between Black Holes And Wormholes? - Jagran Josh",
+      "description": "Scientists are saying that the hypothetical wormholes are real and hiding in plain sight, disguised as black holes. So, what’s the difference between wormholes and black holes? Let’s find out.",
+      "url": "https://www.jagranjosh.com/general-knowledge/what-is-the-difference-between-black-holes-and-wormholes-1668666922-1",
+      "urlToImage": "https://img.jagranjosh.com/https://img.jagranjosh.com/images/2022/November/17112022/what-is-the-difference-between-black-holes-and-wormholes.jpg",
+      "publishedAt": "2022-11-17T06:35:00Z",
+      "content": "According to a group of physicists from Sofia University in Bulgaria, wormholes, the hypothetical tunnels that connect one part of the universe to another, exist and to be hiding in plain sight, in t… [+2965 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ScienceAlert" },
+      "author": "Michelle Starr",
+      "title": "This Insane Video Will Make You Believe There's a Serpent Inside The Sun - ScienceAlert",
+      "description": "A snake seeming to sinuously slink across the surface of the Sun has been captured in a new video by an observatory in close solar orbit.",
+      "url": "https://www.sciencealert.com/this-insane-video-will-make-you-believe-theres-a-serpent-inside-the-sun",
+      "urlToImage": "https://www.sciencealert.com/images/2022/11/SnakeInSun.gif",
+      "publishedAt": "2022-11-17T06:32:40Z",
+      "content": "A snake seeming to sinuously slink across the surface of the Sun has been captured in a new video by an observatory in close solar orbit.\r\nHowever, the \"serpent\" spotted by the European Space Agency'… [+2784 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ScienceAlert" },
+      "author": "David Nield",
+      "title": "Giant Blooms of Microscopic Life Seem to Be Thriving Beneath Antarctic Ice - ScienceAlert",
+      "description": "The Southern Ocean's vast shelves of floating ice appear to hide sprawling blooms of phytoplankton, a discovery that could significantly change our understanding of Antarctica's marine ecosystem and how it might be impacted by climate change.",
+      "url": "https://www.sciencealert.com/giant-blooms-of-microscopic-life-seem-to-be-thriving-beneath-antarctic-ice",
+      "urlToImage": "https://www.sciencealert.com/images/2022/11/AntarcticaIceberg.jpg",
+      "publishedAt": "2022-11-17T06:05:33Z",
+      "content": "The Southern Ocean's vast shelves of floating ice appear to hide sprawling blooms of phytoplankton, a discovery that could significantly change our understanding of Antarctica's marine ecosystem and … [+3104 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "A life in many cells - Frontline",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMimQFodHRwczovL2Zyb250bGluZS50aGVoaW5kdS5jb20vYm9va3MvYm9vay1yZXZpZXctdGhlLXNvbmctb2YtdGhlLWNlbGwtYnktc2lkZGhhcnRoYS1tdWtoZXJqZWUtdGVsbHMtdGhlLXN0b3J5LW9mLWEtbGlmZS1pbi1tYW55LWNlbGxzL2FydGljbGU2NjA5OTU0MC5lY2XSAZ4BaHR0cHM6Ly9mcm9udGxpbmUudGhlaGluZHUuY29tL2Jvb2tzL2Jvb2stcmV2aWV3LXRoZS1zb25nLW9mLXRoZS1jZWxsLWJ5LXNpZGRoYXJ0aGEtbXVraGVyamVlLXRlbGxzLXRoZS1zdG9yeS1vZi1hLWxpZmUtaW4tbWFueS1jZWxscy9hcnRpY2xlNjYwOTk1NDAuZWNlL2FtcC8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-17T05:01:27Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Killer Proteins: The Science Of Prions | Short Wave - NPR Podcasts",
+      "description": "Prions are biological anomalies – self-replicating, not-alive little particles that can misfold into an unstoppable juggernaut of fatal disease. Prions don't...",
+      "url": "https://www.youtube.com/watch?v=rT4dXcwQcKQ",
+      "urlToImage": "https://i.ytimg.com/vi/rT4dXcwQcKQ/maxresdefault.jpg",
+      "publishedAt": "2022-11-17T05:00:30Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Historic Mission for NASA - WAAY-TV 31 News",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXIa5KZwxArc",
+      "urlToImage": null,
+      "publishedAt": "2022-11-17T04:41:46Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": { "id": null, "name": "India Education Diary" },
+      "author": "India Education Diary Bureau Admin",
+      "title": "Experts Available to Discuss NASA Webb Telescope Science Results - India Education Diary",
+      "description": "Experts from NASA and other institutions will be available by teleconference at 11 a.m. EST on Thursday, Nov. 17, to answer media questions about early science results from the agency’s James Webb Space Telescope. The agency will livestream audi",
+      "url": "https://indiaeducationdiary.in/experts-available-to-discuss-nasa-webb-telescope-science-results/",
+      "urlToImage": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+      "publishedAt": "2022-11-17T02:11:29Z",
+      "content": "Experts from NASA and other institutions will be available by teleconference at 11 a.m. EST on Thursday, Nov. 17, to answer media questions about early science results from the agencys James Webb Spa… [+2011 chars]"
+    },
+    {
+      "source": { "id": null, "name": "India Education Diary" },
+      "author": "India Education Diary Bureau Admin",
+      "title": "NASA to Share First Results of Inflatable Heat Shield Technology Test - India Education Diary",
+      "description": "NASA will host a media briefing on Thursday, Nov. 17, at 2 p.m. EST to share early results from the Low-Earth Orbit Flight Test of an Inflatable Decelerator (LOFTID) technology demonstration. Audio of the call will stream live on the agency’s we",
+      "url": "https://indiaeducationdiary.in/nasa-to-share-first-results-of-inflatable-heat-shield-technology-test/",
+      "urlToImage": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+      "publishedAt": "2022-11-17T02:11:29Z",
+      "content": "NASA will host a media briefing on Thursday, Nov. 17, at 2 p.m. EST to share early results from the Low-Earth Orbit Flight Test of an Inflatable Decelerator (LOFTID) technology demonstration.\r\nAudio … [+2104 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Mail" },
+      "author": "Daily",
+      "title": "Meteorite that fell on Britain has clues to how life formed on Earth, experts say - Daily Mail",
+      "description": "An analysis of the space rock, which fell on to Winchcombe, Gloucestershire, has revealed it contains 11 per cent water and 2 per cent carbon.",
+      "url": "https://www.dailymail.co.uk/sciencetech/article-11437421/Meteorite-fell-Britain-clues-life-formed-Earth-experts-say.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2022/11/17/01/47745245-0-image-a-2_1668647999363.jpg",
+      "publishedAt": "2022-11-17T01:37:00Z",
+      "content": "A meteorite that fell in the UK last year holds key information about how oceans and life formed on Earth, scientists have said. \r\nAn analysis of the space rock, which fell on to Winchcombe, Gloucest… [+2621 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "FINDING MILO - WTHI-TV",
+      "description": "FINDING MILO",
+      "url": "https://www.youtube.com/watch?v=hf_RHq76tdw",
+      "urlToImage": "https://i.ytimg.com/vi/hf_RHq76tdw/maxresdefault.jpg",
+      "publishedAt": "2022-11-16T23:30:37Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "My Plan B - Imperial College London",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNnFqQnANt44",
+      "urlToImage": null,
+      "publishedAt": "2022-11-16T18:33:20Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "The Conversation Africa" },
+      "author": "Penny Spikins",
+      "title": "8 billion people: how different the world would look if Neanderthals had prevailed - The Conversation Indonesia",
+      "description": "Neanderthals were wiped out by chance changes in the environment. The rise of Homo sapiens wasn’t inevitable.",
+      "url": "https://theconversation.com/8-billion-people-how-different-the-world-would-look-if-neanderthals-had-prevailed-194576",
+      "urlToImage": "https://images.theconversation.com/files/495428/original/file-20221115-15-h87geb.jpg?ixlib=rb-1.1.0&rect=0%2C232%2C5353%2C2676&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2022-11-16T17:18:36Z",
+      "content": "In evolutionary terms, the human population has rocketed in seconds. The news that it has now reached 8 billion seems inexplicable when you think about our history. \r\nFor 99% of the last million year… [+6237 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ThePrint" },
+      "author": "ANI",
+      "title": "Research explores possibility of life beyond Earth - ThePrint",
+      "description": "Arizona [US], November 16 (ANI): Do caverns on Mars harbour life? Although that’s a valid question, it isn’t the appropriate one right now. According to an international group of experts led by Jut Wynne, a researcher at NAU, we need to ask and answer dozens …",
+      "url": "https://theprint.in/science/research-explores-possibility-of-life-beyond-earth/1220447/",
+      "urlToImage": null,
+      "publishedAt": "2022-11-16T17:15:19Z",
+      "content": "Arizona [US], November 16 (ANI): Do caverns on Mars harbour life?\r\nAlthough that’s a valid question, it isn’t the appropriate one right now.\r\nAccording to an international group of experts led by Jut… [+7204 chars]"
+    },
+    {
+      "source": { "id": null, "name": "India Education Diary" },
+      "author": "iednewsdesk",
+      "title": "University of Oregon: Study finds a gut-brain link tied to social development - India Education Diary",
+      "description": "To learn to socialize, zebrafish need to trust their gut.Gut microbes encourage specialized cells to prune back extra connections in brain circuits that control social behavior, new UO research in zebrafish shows. The pruning is essential for the dev",
+      "url": "https://indiaeducationdiary.in/university-of-oregon-study-finds-a-gut-brain-link-tied-to-social-development/",
+      "urlToImage": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2022/07/University-of-Oregon.png?fit=1024%2C576&ssl=1",
+      "publishedAt": "2022-11-16T16:54:22Z",
+      "content": "To learn to socialize, zebrafish need to trust their gut.\r\nGut microbes encourage specialized cells to prune back extra connections in brain circuits that control social behavior, new UO research in … [+3258 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "The Existential Threat of Solar Storms with Dr Benjamin Pope - Fraser Cain",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5xPBonKpHIM",
+      "urlToImage": null,
+      "publishedAt": "2022-11-16T16:22:12Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Phys.Org" },
+      "author": "Miles Hatfield",
+      "title": "Rockets to uncover electric circuit that powers the northern lights - Phys.org",
+      "description": "A NASA-funded rocket mission is headed to space to measure the global electric circuit underlying the northern lights. For its second trip to space, the Aurora Current and Electrodynamics Structures II, or ACES II, instrument will launch from Andøya Space in …",
+      "url": "https://phys.org/news/2022-11-rockets-uncover-electric-circuit-powers.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2022/rockets-to-uncover-ele.jpg",
+      "publishedAt": "2022-11-16T16:18:27Z",
+      "content": "A NASA-funded rocket mission is headed to space to measure the global electric circuit underlying the northern lights. For its second trip to space, the Aurora Current and Electrodynamics Structures … [+5302 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Clouded Vision - HubbleWebbESA",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmMTKkvzLsws",
+      "urlToImage": null,
+      "publishedAt": "2022-11-16T15:33:07Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Esa.int" },
+      "author": null,
+      "title": "ESA - Pushing the boundaries of space - European Space Agency",
+      "description": null,
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2022/11/Pushing_the_boundaries_of_space",
+      "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2022/11/pushing_the_boundaries_of_space/24567159-1-eng-GB/Pushing_the_boundaries_of_space_pillars.png",
+      "publishedAt": "2022-11-16T12:53:03Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Wham Cam: Deer in the headlights look? - WNEP",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dy_LD76AMzkY",
+      "urlToImage": null,
+      "publishedAt": "2022-11-16T12:39:47Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    }
+  ]
+}
